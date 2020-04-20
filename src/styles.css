@@ -1,0 +1,14 @@
+.submit{
+    position: relative;
+    top: 20px;
+    left: 500px;
+}
+
+.question-answer{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    top: 30px;
+    font-family: Work Sans;
+}
